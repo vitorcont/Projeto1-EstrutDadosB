@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602625920 source:c:\users\vitor\desktop\puc - trabalhos\4º semestre\estruturas b\projeto 1\versão 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<stdbool.h>
+
